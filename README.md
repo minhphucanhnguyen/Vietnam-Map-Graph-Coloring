@@ -1,4 +1,4 @@
-# Vietnam-Map-Graph-Coloring
+# Vietnam Map Graph Coloring
 
 This is a project using simple AI algorithms to solve the Graph Coloring with Vietnam Map. 
 
